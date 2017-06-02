@@ -5,7 +5,7 @@ CSS Grid Layout, is a two-dimensional grid-based layout system that change the w
 This is a simple and responsive grid example for learn CSS Grid.
 
 
->You can see the [Demo](e).
+>You can see the [Demo](https://ninaiskel.github.io/css-grid/).
 
 Resources to learn CSS Grid.
 ----------
